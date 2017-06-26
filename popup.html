@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Cicero</title>
+    <link href='https://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <style>
+      body {
+        font-family: 'Oswald', arial;
+        text-align: center;
+        color: #333;
+        min-width: 200px;
+      }
+      h1 {
+        font-family: 'Oswald', arial;
+        font-weight: 300;
+        text-transform: uppercase;
+        border-top: 10px solid green;
+        border-bottom: 10px solid red;
+        margin: -5px 0 10px 0;
+      }
+      input, button {
+        font-family: 'Oswald', arial;
+        padding: 5px;
+        font-size: 1.1em;
+        letter-spacing: 1px;
+        border-radius: 10px;
+      }
+      input {
+        border: 1px solid black;
+      }
+      button {
+        text-transform: uppercase;
+        background-color: green;
+        color: white;
+        padding: 5px 15px 5px 15px;
+        border: none;
+      }
+      button:hover {
+        background-color: #009900;
+      }
+      p {
+        letter-spacing: 1px;
+        font-size: 1.2em;
+      }
+      p#def {
+        font-size: 1.5em;
+      }
+    </style>
+  </head>
+  <body>
+  
+    <h1>Cicero</h1>
+
+    <input type="text" id="box" placeholder="Type Italian word" />
+    <button id="go">Go</button>
+
+    <p id="def"></p>
+    <p id="etc"></p>
+
+    <script src="popup.js"></script>
+
+  </body>
+</html>
+
