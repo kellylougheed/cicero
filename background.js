@@ -15,8 +15,10 @@ chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
 	    		if (resp.tuc[0].phrase) {
 					def = resp.tuc[0].phrase.text;
 				}
-				if (resp.tuc[0].meanings[0].text) {
+				if (resp.tuc[0].meanings && resp.tuc[0].meanings[0].text) {
 					etc = resp.tuc[0].meanings[0].text;
+				} else if (resp.tuc[1].meanings && resp.tuc[1].meanings[0].text) {
+					etc = resp.tuc[1].meanings[0].text;
 				}
 	    	}
 	    	sendResponse({p1: def, p2: etc});
