@@ -20,7 +20,7 @@ Italian grammar help is also provided.
 
 <img src="http://kellylougheed.com/images/projects/cicero-def3.png" alt="Screenshot of an Italian grammar explanation" />
 
-## How to get it
+## Get it now
 
 Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/icmiokglnmhdllhbkcmpclfdhgodjgkc/?hl=en).
 
