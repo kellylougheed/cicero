@@ -27,3 +27,7 @@ Install the extension from the [Chrome Web Store](https://chrome.google.com/webs
 ## Tools
 
 This extension was made with JavaScript, HTML/CSS, and the [Glosbe API](https://glosbe.com/).
+
+## Name
+
+Cicero is named after the Roman statesman Marcus Tullius Cicero (106-43 BCE), known for his Latin oratory and prose.
