@@ -1,8 +1,10 @@
 # Cicero
 
-An Italian to English dictionary in your browser.
+Learning Italian? Tired of reading Italian in your browser and then switching to another window for your dictionary?
 
-Learning Italian? Read the news with a dictionary open in the same window!
+Have your Italian-to-English dictionary in the very same window with this browser extension! Read Italian and look up words at the same time without leaving your page.
+
+Grammar help and Italian definitions also provided when available.
 
 <img src="http://kellylougheed.com/images/projects/cicero-screenshot.png" alt="Screenshot of the Cicero extension open on an Italian news site" />
 
@@ -17,3 +19,11 @@ Additional definitions may be provided in Italian to increase immersion.
 Italian grammar help is also provided.
 
 <img src="http://kellylougheed.com/images/projects/cicero-def3.png" alt="Screenshot of an Italian grammar explanation" />
+
+## How to get it
+
+Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/icmiokglnmhdllhbkcmpclfdhgodjgkc/?hl=en).
+
+## Tools
+
+This extension was made with JavaScript, HTML/CSS, and the [Glosbe API](https://glosbe.com/).
