@@ -6,7 +6,7 @@ Have your Italian-to-English dictionary in the very same window with this browse
 
 Grammar help and Italian definitions also provided when available.
 
-<img src="http://kellylougheed.com/images/projects/cicero-screenshot.png" alt="Screenshot of the Cicero extension open on an Italian news site" />
+<img src="http://kellylougheed.com/images/projects/cicero.png" alt="Screenshot of the Cicero extension open on an Italian news site" />
 
 The dictionary provides multiple definitions.
 
